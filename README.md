@@ -19,7 +19,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jacques-GN&color=blue&style=flat-square" alt="Compteur de vues" />
 </p>
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{Jacques-GN}/count.svg" alt="Visitor's Count" />
+</div>
 
 ---
 
