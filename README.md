@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24,30,40&height=220&section=header&text=GNOUMOU%20Jean%20Jacques&fontSize=32&fontColor=fff&fontAlignY=38&animation=fadeIn&fontAlign=50&desc=Futur%20Dev%20Full-Stack%20%7C%20Passionn%C3%A9%20d'IA&descSize=16&descColor=38bdf8" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24,30,40&height=220&section=header&text=GNOUMOU%20Jean%20Jacques&fontSize=32&fontColor=fff&fontAlignY=38&animation=fadeIn&fontAlign=50&desc=Futur%20Dev%20Full-Stack%20%7C%20Passionn%C3%A9%20d%27IA%20et%20d%27automatisation&descSize=16&descColor=38bdf8" alt="Banner" />
 </p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=650&height=60&color=38bdf8&duration=4000&lines=Salut+!+👋;Bienvenue+sur+mon+profil+!;Explorons+le+code+ensemble" alt="Typing SVG" />
@@ -13,8 +14,6 @@
 - 🌱 Je consolide mon parcours de développeur en me concentrant sur le **développement web (Front-end puis Back-end avec et Flask)**, avant d'évoluer vers le mobile.
 - 🔭 Je m'investis activement dans le projet open-source **aelf-flutter** (développement mobile) et je développe l'initiative de **FlowAfric**.
 - 💬 Discutez avec moi de **C, Python, JavaScript, HTML/CSS, SQL** ou de mes projets de développement web et mobile.
-
-
 
 <br>
 
@@ -44,7 +43,9 @@
 ## 🛠️ Langues et outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,c,html,css,flutter,git,github,postgres" />
+  <img src="https://skillicons.dev/icons?i=py,js,c,html,css,flutter,git,github,postgres" alt="Tech Stack" />
+  <br><br>
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ## ⚡️ Statistiques
@@ -56,3 +57,25 @@
   <br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Jacques-GN&theme=react-dark&hide_border=true&area=true" alt="Graphique d'activité GitHub" />
 </div>
+
+<br>
+
+### 📫 Comment me joindre
+- 💼 **LinkedIn (Principal) :** [Mon Profil LinkedIn](https://www.linkedin.com/in/gnoumou-jean-jacques-3b9186385)
+- 💬 **WhatsApp :** [Discuter sur WhatsApp](https://wa.me/message/LVZWY432Q2EUE1) (ou par téléphone : `54348851`)
+- 📧 **Email :** `jeangnoumou55@gmail.com`
+
+---
+
+> *"Rendez à chacun ce qui lui est dû : l'impôt à qui vous devez l'impôt, la taxe à qui vous devez la taxe, la crainte à qui vous devez la crainte, l'honneur à qui vous devez l'honneur. Ne devez rien à personne, si ce n'est de vous aimer les uns les autres... Revêtez-vous du Seigneur Jésus-Christ..."* — **Romains 13:7-14**
+
+<br>
+<p align="center">
+  <i>Merci d'avoir pris le temps de découvrir mon profil. N'hésitez pas à me contacter! à très vite 👋🏽 </i> 🌟
+</p>
+
+
+
+
+
+ 
