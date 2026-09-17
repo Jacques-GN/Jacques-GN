@@ -13,7 +13,7 @@
 
 - 🌱 Je consolide mon parcours de développeur en me concentrant sur le **développement web (Front-end puis Back-end avec et Flask)**, avant d'évoluer vers le mobile.
 - 🔭 Je m'investis activement dans le projet open-source **aelf-flutter** (développement mobile) et je développe l'initiative de **FlowAfric**.
-- 💬 Discutez avec moi de **C, Python, JavaScript, HTML/CSS, SQL** ou de mes projets de développement web et mobile.
+- 💬 Discutez avec moi de **Automatisations, C, Python, JavaScript, HTML/CSS, SQL** ou de mes projets de développement web et mobile.
 
 <br>
 
