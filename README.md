@@ -1,6 +1,5 @@
 ![Bannière GitHub](github_banner.png)
 
-
 <h1 align="center">Salut 👋, moi c'est GNOUMOU Jean Jacques !</h1>
 <h3 align="center">Étudiant en deuxième année d'informatique & passionné d'intelligence artificielle et d'automatisation</h3>
 
