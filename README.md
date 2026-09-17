@@ -37,5 +37,20 @@
 
 <hr>
 
+## 🛠️ Langues et outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,c,html,css,flutter,git,github,postgres" />
+</p>
+
+## ⚡️ Statistiques
+
+<br>
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Jacques-GN&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=fr" alt="Statistiques GitHub de Jacques-GN" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacques-GN&theme=transparent&count_private=true&border_radius=10&locale=fr" alt="Série de contributions de Jacques-GN" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacques-GN&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=fr" alt="Langues les plus utilisées de Jacques-GN" />
+</div>
 
 
