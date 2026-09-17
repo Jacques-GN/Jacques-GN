@@ -1,69 +1,69 @@
-![Bannière GitHub](github_banner.png)
-
-
-<h1 align="center">Salut 👋, moi c'est GNOUMOU Jean Jacques !</h1>
-<h3 align="center">Étudiant en deuxième année d'informatique & passionné d'intelligence artificielle et d'automatisation</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/gnoumou-jean-jacques-3b9186385">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/jean73127">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="https://www.instagram.com/_jean.jacques_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/share/19jVgc7Vyf/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24,30,40&height=220&section=header&text=GNOUMOU%20Jean%20Jacques&fontSize=32&fontColor=fff&fontAlignY=38&animation=fadeIn&fontAlign=50&desc=Futur%20Dev%20Full-Stack%20%7C%20Passionn%C3%A9%20d%27IA%20et%20d%27automatisation&descSize=16&descColor=38bdf8" alt="Banner" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jacques-GN&color=blue&style=flat-square" alt="Compteur de vues" />
-</p>
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Jacques-GN}/count.svg" alt="Visitor's Count" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=650&height=60&color=38bdf8&duration=4000&lines=Salut+!+👋;Bienvenue+sur+mon+profil+!;Explorons+le+code+ensemble" alt="Typing SVG" />
+</h1>
+
+
+
+### Étudiant en informatique et futur développeur full-stack, passionné par la création d'applications et l'intelligence artificielle.
+
+- 🌱 Je consolide mon parcours de développeur en me concentrant sur le **développement web (Front-end puis Back-end avec et Flask)**, avant d'évoluer vers le mobile.
+- 🔭 Je m'investis activement dans le projet open-source **aelf-flutter** (développement mobile) et je développe l'initiative de **FlowAfric**.
+- 💬 Discutez avec moi de **Automatisations, C, Python, JavaScript, HTML/CSS, SQL** ou de mes projets de développement web et mobile.
+
+<br>
+
+<div align="center">
+  <a href="mailto:jeangnoumou55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gnoumou-jean-jacques-3b9186385" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://wa.me/message/LVZWY432Q2EUE1" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.facebook.com/share/19jVgc7Vyf/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://x.com/jean73127" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/_jean.jacques_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
 </div>
 
----
+<hr>
 
-### 🔭 Ce sur quoi je travaille
-- 🌍 **FlowAfric** : Une initiative visant à démocratiser et étendre l'accessibilité des outils d'IA sur le continent africain.
-- 📱 **aelf-flutter** : Contribution open-source sur GitLab (mise en place d'un système de notifications programmées).
+## 🛠️ Langues et outils
 
-### 💻 Mes compétences & Outils
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### 📊 Mes statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jacques-GN&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacques-GN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,c,html,css,flutter,git,github,postgres" alt="Tech Stack" />
+  <br><br>
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-### 💬 Discutez avec moi de :
-- L’utilisation de IA  et automatisation des flux de travail.
-- Développement personnel, actualité Tech, investissement , et création de contenus éducatifs sur l'IA.
-- Jesus Christ 
+## ⚡️ Statistiques
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacques-GN&theme=radical&border_radius=10" alt="Série de contributions" />
+  <br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Jacques-GN&theme=react-dark&hide_border=true&area=true" alt="Graphique d'activité GitHub" />
+</div>
+
+<br>
 
 ### 📫 Comment me joindre
 - 💼 **LinkedIn (Principal) :** [Mon Profil LinkedIn](https://www.linkedin.com/in/gnoumou-jean-jacques-3b9186385)
 - 💬 **WhatsApp :** [Discuter sur WhatsApp](https://wa.me/message/LVZWY432Q2EUE1) (ou par téléphone : `54348851`)
 - 📧 **Email :** `jeangnoumou55@gmail.com`
-- ✖️ **X (Twitter) :** [@jean73127](https://x.com/jean73127?s=11)
-- 📸 **Instagram :** [@_jean.jacques_](https://www.instagram.com/_jean.jacques_?stkn=cjRwdzA4d2g4ZWU3&utm_source=qr)
-- 📘 **Facebook :** [Profil Facebook](https://www.facebook.com/share/19jVgc7Vyf/?mibextid=wwXIfr)
-
 
 ---
 
@@ -77,17 +77,5 @@
 
 
 
-<!--
-**Jacques-GN/Jacques-GN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
