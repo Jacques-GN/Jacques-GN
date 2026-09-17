@@ -10,6 +10,8 @@
 - 🔭 Je m'investis activement dans le projet open-source **aelf-flutter** (développement mobile) et je développe l'initiative de **FlowAfric**.
 - 💬 Discutez avec moi de **C, Python, JavaScript, HTML/CSS, SQL** ou de mes projets de développement web et mobile.
 
+
+
 <br>
 
 <div align="center">
@@ -22,6 +24,9 @@
   <a href="https://wa.me/message/LVZWY432Q2EUE1" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.facebook.com/share/19jVgc7Vyf/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
   <a href="https://x.com/jean73127" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" />
   </a>
@@ -31,5 +36,6 @@
 </div>
 
 <hr>
+
 
 
