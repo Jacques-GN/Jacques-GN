@@ -1,8 +1,12 @@
-![Bannière GitHub](github_banner.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24,30,40&height=220&section=header&text=GNOUMOU%20Jean%20Jacques&fontSize=32&fontColor=fff&fontAlignY=38&animation=fadeIn&fontAlign=50&desc=Futur%20Dev%20Full-Stack%20%7C%20Passionn%C3%A9%20d'IA&descSize=16&descColor=38bdf8" alt="Banner" />
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=650&height=70&color=4493F8&duration=4000&lines=Salut+tout+le+monde+!+👋;Je+suis+GNOUMOU+Jean+Jacques+!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=650&height=60&color=38bdf8&duration=4000&lines=Salut+!+👋;Bienvenue+sur+mon+profil+!;Explorons+le+code+ensemble" alt="Typing SVG" />
 </h1>
+
+
 
 ### Étudiant en informatique et futur développeur full-stack, passionné par la création d'applications et l'intelligence artificielle.
 
@@ -48,9 +52,7 @@
 <br>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Jacques-GN&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=fr" alt="Statistiques GitHub de Jacques-GN" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacques-GN&theme=transparent&count_private=true&border_radius=10&locale=fr" alt="Série de contributions de Jacques-GN" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacques-GN&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=fr" alt="Langues les plus utilisées de Jacques-GN" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacques-GN&theme=radical&border_radius=10" alt="Série de contributions" />
+  <br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Jacques-GN&theme=react-dark&hide_border=true&area=true" alt="Graphique d'activité GitHub" />
 </div>
-
-
