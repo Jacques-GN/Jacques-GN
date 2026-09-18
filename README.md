@@ -43,7 +43,7 @@
 ## 🛠️ Langues et outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,c,html,css,flutter,git,github,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,js,c,html,css,flutter,git,github,postgres,figma " alt="Tech Stack" />
   <br><br>
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
