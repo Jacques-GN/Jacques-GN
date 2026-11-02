@@ -13,7 +13,7 @@
 
 - 🌱 Je consolide mon parcours de développeur en me concentrant sur le **développement web (Front-end puis Back-end avec et Flask)**, avant d'évoluer vers le mobile.
 - 🔭 Je m'investis activement dans le projet open-source **aelf-flutter** (développement mobile) et je développe l'initiative de **FlowAfric**.
-- 💬 Discutez avec moi de **Automatisations, C, Python, HTML/CSS, SQL** ou de mes projets de développement web et mobile.
+- 💬 Discutez avec moi de **Automatisations, C, Python, HTML/CSS, java,SQL** ou de mes projets de développement web et mobile.
 
 <br>
 
@@ -43,7 +43,7 @@
 ## 🛠️ Langues et outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,html,css,git,postgres," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,java,git,postgres," alt="Tech Stack" />
   <br><br>
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
