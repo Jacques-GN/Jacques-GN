@@ -11,9 +11,9 @@
 
 ### Étudiant en informatique et futur développeur full-stack, passionné par la création d'applications et l'intelligence artificielle.
 
-- 🌱 Je consolide mon parcours de développeur en me concentrant sur le **développement web (Front-end puis Back-end avec et Flask)**, avant d'évoluer vers le mobile.
+- 🌱 Je consolide mon parcours de développeur en me concentrant sur le **développement web (Front-end puis Back-end avec Flask)**, avant d'évoluer vers le mobile.
 - 🔭 Je m'investis activement dans le projet open-source **aelf-flutter** (développement mobile) et je développe l'initiative de **FlowAfric**.
-- 💬 Discutez avec moi de **Automatisations, C, Python, HTML/CSS, java,SQL** ou de mes projets de développement web et mobile.
+- 💬 Discutez avec moi de **Automatisations, C, Python, HTML/CSS, java, SQL** ou de mes projets de développement web et mobile.
 
 <br>
 
@@ -53,9 +53,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacques-GN&theme=radical&border_radius=10" alt="Série de contributions" />
+  <img src="https://streak-stats.demolab.com/?user=Jacques-GN&theme=radical&border_radius=10" alt="Série de contributions" />
   <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Jacques-GN&theme=react-dark&hide_border=true&area=true" alt="Graphique d'activité GitHub" />
+  <img src="https://raw.githubusercontent.com/Jacques-GN/Jacques-GN/output/github-snake-dark.svg" alt="Graphique de contributions en serpent" />
 </div>
 
 <br>
